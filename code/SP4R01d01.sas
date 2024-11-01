@@ -72,7 +72,7 @@ data work.birth;
     ;
     format LOW SMOKE HT UI yesnofmt. PTL ptlfmt. ftv ftvfmt.;
     datalines;
-  85     0      19    182      2       0       0      0     1     0     2523
+ 888     0      19    182      2       0       0      0     1     0     2523
   86     0      33    155      3       0       0      0     0     3     2551
   87     0      20    105      1       1       0      0     0     1     2557
   88     0      21    108      1       1       0      0     1     2     2594
